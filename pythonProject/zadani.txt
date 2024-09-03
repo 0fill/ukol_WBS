@@ -1,0 +1,4 @@
+spraviť si jednoduchu webovu stránku vo flasku (home, about, a stranka an nejaku temu)
+, boli by fajn ak by web mal menu na preklikavanie sa medzi strankami
+
+-> skúsiť si spustiť hello world hlášku v djangu
